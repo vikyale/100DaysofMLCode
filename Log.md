@@ -6,7 +6,7 @@
 
 **Thoughts:** Hope will help me in learning Machine Learning in a more fun and effective way .
 
-### Day 0: August 26, 2018 
+### Day 1: August 26, 2018 
 
 **Today's Progress**: Starting with a Introduction to Linear Algebra and to Mathematics for ML.
 
