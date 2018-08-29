@@ -14,4 +14,18 @@
 
 **Link of Work:**   [Courses, coursera ](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
+### Day 2: August 27, 2018 
 
+**Today's Progress**: Samples of elimination with matrices
+
+**Thoughts:** It's Ok to refresh concepts and practice with more dimensions.
+
+**Link of Work:**   [MIT Course ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+
+### Day 3: August 28, 2018 
+
+**Today's Progress**:  Linear algebra, multiplication and inverse matrices
+
+**Thoughts:** Not difficult, using Jupyter Notebook to reply same exercises.
+
+**Link of Work:**   [MIT Course ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
