@@ -12,7 +12,7 @@
 
 **Thoughts:** Review a basics math topics, for example linear equations. 
 
-**Link of Work:**   [Courses, coursera ](https://www.coursera.org/learn/linear-algebra-machine-learning)
+**Link of Work:**   [Linear_Equations](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/LinearAlgebra/01-linear_equations.ipynb)
 
 ### Day 2: August 27, 2018 
 
@@ -20,7 +20,7 @@
 
 **Thoughts:** It's Ok to refresh concepts and practice with more dimensions.
 
-**Link of Work:**   [MIT Course ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+**Link of Work:**   [Matrices elimination](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/LinearAlgebra/02-elimination.ipynb)
 
 ### Day 3: August 28, 2018 
 
@@ -28,4 +28,13 @@
 
 **Thoughts:** Not difficult, using Jupyter Notebook to reply same exercises.
 
-**Link of Work:**   [MIT Course ](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
+**Link of Work:**   [Samples](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/LinearAlgebra/03-multiplication-and-inverse-matrices.ipynb)
+
+### Day 4-5: August 29-30, 2018 
+
+**Today's Progress**:  Factorization and Transposes
+
+**Link of Work:**   [Samples](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/LinearAlgebra/04-Factorization.ipynb)
+
+
+
