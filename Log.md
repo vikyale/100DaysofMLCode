@@ -38,7 +38,7 @@
 
 ### Day 6-7: August 31-02, 2018 
 
-**Today's Progress**:  Factorization and Transposes
+**Today's Progress**:  Column space and nullspace
 
 **Link of Work:**   [Samples](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/LinearAlgebra/06-%20ColumnSpaces%20and%20Nullspace.ipynb)
 
