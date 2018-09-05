@@ -43,4 +43,16 @@
 **Link of Work:**   [Samples](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/LinearAlgebra/06-%20ColumnSpaces%20and%20Nullspace.ipynb)
 
 
+### Day 8-9: September 03-04, 2018 
+
+**Today's Progress**:  Using Spicy with vectors and matrices
+
+**Link of Work:**   [Samples](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/LinearAlgebra/08.%20Vectors%20and%20Matrices%20with%20Spicy.ipynb)
+
+### Day 10: September 05, 2018 
+
+**Today's Progress**:  Descriptive Statistics with Python
+
+**Link of Work:**   [Samples](https://github.com/vickyale/100DaysofMLCode/blob/master/samples/Statistics/09%20-%20Descriptive%20Statistics.ipynb)
+
 
